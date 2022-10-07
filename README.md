@@ -1,9 +1,9 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Aniket Sardesai</h1>
-<h3 align="center">A passionate developer from Goa.</h3>
+<h1 align="left">Hi 🙋‍♂️, I'm Aniket Sardesai</h1>
+<h3 align="left">A passionate programmer/developer 👨‍💻 from Goa.</h3>
 
 <!-- - 🔭 I’m currently working on [100cc-store](https://github.com/ChaitanyaCodes/100cc-strore-frontend) -->
 
-- 🌱 I’m currently learning **AI Machine Learning.**
+- 🧑‍💻 I’m currently learning **AI Machine Learning.**
 
 - 💻 All of my projects are available at [aniket15desai.github.io](https://aniket15desai.github.io/)
 
@@ -24,9 +24,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket15desai&show_icons=true&locale=en&layout=compact" alt="aniket15desai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket15desai&show_icons=true&locale=en" alt="aniket15desai" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket15desai&" alt="aniket15desai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket15desai&show_icons=true&locale=en" alt="aniket15desai" /></p>
 
 <!---
 Aniket15desai/Aniket15desai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
