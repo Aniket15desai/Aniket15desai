@@ -11,7 +11,7 @@
 
 - 📬 How to reach me **aniketsardesai1@gmail.com**
 
-- 📄 Know about my experiences by checking out the [Resume][(https://drive.google.com/file/d/119TmMGldxB8P05dM-_FUg9H2Tvq7EUdQ/view?usp=drive_link)](https://drive.google.com/file/d/119TmMGldxB8P05dM-_FUg9H2Tvq7EUdQ/view?usp=drive_link)
+- 📄 Know about my experiences by checking out the [Resume](https://drive.google.com/file/d/119TmMGldxB8P05dM-_FUg9H2Tvq7EUdQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
